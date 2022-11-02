@@ -1,0 +1,11 @@
+﻿@model IEnumerable<ASP.NET_CRUD_example_1._4.Models.AsignaturaViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach (var asignatura in Model)
+{
+    <h1>@asignatura.AsignaturaNombre</h1>
+    <p>@asignatura.ListaAlumnos</p>
+}

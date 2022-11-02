@@ -1,0 +1,14 @@
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\bin\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.deps.json
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\bin\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.runtimeconfig.json
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\bin\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.dll
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\bin\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.pdb
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.AssemblyInfo.cs
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.dll
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\refint\ASP.NET-CRUD-example-1.4-DAL.dll
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.pdb
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ASP.NET-CRUD-example-1.4-DAL.genruntimeconfig.cache
+C:\Users\Sergio DC\vs2022-workspace\ASP.NET-CRUD-example-1.4-DAL\obj\Debug\net6.0\ref\ASP.NET-CRUD-example-1.4-DAL.dll
